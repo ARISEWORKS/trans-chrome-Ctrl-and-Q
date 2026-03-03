@@ -127,6 +127,7 @@
     ui.addEventListener('click', () => { if (!isDragging) triggerTranslation(!isTranslated); });
 
     document.addEventListener('keydown', (e) => {
+//ここでCTRLとqボタンのを変更できる。
         if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'q') {
             e.preventDefault();
             triggerTranslation(!isTranslated);
