@@ -17,3 +17,4 @@ This is ENGLISH ⇒ japanese only now.
 使用不可環境
 ・chrome以外のWebブラウザ
 ・セキュリティで拒否されているサイト（Udemyでは使えた。）
+・セキュリティでGoogle翻訳をNGとしている場所での使用。
