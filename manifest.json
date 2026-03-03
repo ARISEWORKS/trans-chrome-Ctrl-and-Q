@@ -1,0 +1,13 @@
+{
+  "manifest_version": 1,
+  "name": "Quick Translate",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "world": "MAIN"
+    }
+  ]
+}
