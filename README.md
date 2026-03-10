@@ -2,7 +2,7 @@
 
 This feature uses Google Translate to translate pages instantly. It operates as a lightweight Chrome extension, allowing you to seamlessly toggle between the original text and the translated text using shortcut keys.
 
-> **Note:** Currently, this extension supports **English ⇒ Japanese only**.
+> **Note:** Currently, this extension supports **English ⇒ Japanese only**.AND PC Beowser Only.NO Smartphone application.
 
 ---
 
