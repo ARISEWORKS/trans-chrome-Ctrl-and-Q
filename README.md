@@ -16,6 +16,8 @@ This is ENGLISH ⇒ japanese only now.
 使い方
 ・Ctrl＋qで原文⇒日本語のgoogle翻訳
 ・Ctrl＋shift+qで日本語翻訳⇒原文
+参考）言語コード
+・https://docs.cloud.google.com/translate/docs/languages?hl
 
 使用不可環境
 ・使えないところでは使えない。
