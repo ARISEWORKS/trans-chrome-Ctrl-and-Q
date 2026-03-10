@@ -1,4 +1,4 @@
-# trans-chrome-Ctrl-and-Q
+# 🌐 Translate Toggle Extension
 
 This feature uses Google Translate to translate pages instantly. It operates as a lightweight Chrome extension, allowing you to seamlessly toggle between the original text and the translated text using shortcut keys.
 
@@ -55,6 +55,13 @@ This extension may not work in certain environments due to strict security polic
 * **Google Cloud Translation Language Codes:**
   If you want to modify the code for other languages, check the language codes here:
   [https://docs.cloud.google.com/translate/docs/languages?hl](https://docs.cloud.google.com/translate/docs/languages?hl)
+
+---
+
+## 🛠️ Support & Issues (サポート・バグ報告について)
+
+Bug reports and pull requests are welcome in the GitHub Issues. However, please note that this project is provided "as-is" and **no active support, troubleshooting, or guaranteed fixes will be provided**.
+GitHubのIssue機能にてバグ報告は受け付けておりますが、**個別のサポートや確実な修正対応はお約束いたしかねます**。あらかじめご了承ください。
 
 ---
 
