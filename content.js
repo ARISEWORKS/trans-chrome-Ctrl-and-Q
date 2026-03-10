@@ -4,6 +4,7 @@
   const translateToJapanese = () => {
     const combo = document.querySelector('.goog-te-combo');
     if (combo) {
+      //翻訳言語は以下↓を変更すること
       combo.value = 'ja';
       combo.dispatchEvent(new Event('change', { bubbles: true }));
     }
